@@ -1,0 +1,6 @@
+mongod --config /usr/local/etc/mongod.conf --fork
+mongo
+cd Desktop/Node/node_react/nodeapi
+npm run dev
+cd node_react/react-front
+npm start

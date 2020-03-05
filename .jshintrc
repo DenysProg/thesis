@@ -1,0 +1,8 @@
+{
+    "esversion": 9,
+    "maxlen": 100,
+    "jquery": true,
+    "browser": true,
+    "strict": false,
+    "trailing": true
+}
